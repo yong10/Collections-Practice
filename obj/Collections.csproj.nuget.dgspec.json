@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yh650\\Desktop\\Codingdojo\\C#\\Basic\\Collections\\Collections.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yh650\\Desktop\\Codingdojo\\C#\\Basic\\Collections\\Collections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yh650\\Desktop\\Codingdojo\\C#\\Basic\\Collections\\Collections.csproj",
+        "projectName": "Collections",
+        "projectPath": "C:\\Users\\yh650\\Desktop\\Codingdojo\\C#\\Basic\\Collections\\Collections.csproj",
+        "packagesPath": "C:\\Users\\yh650\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yh650\\Desktop\\Codingdojo\\C#\\Basic\\Collections\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yh650\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
